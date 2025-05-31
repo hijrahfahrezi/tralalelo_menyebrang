@@ -145,4 +145,4 @@ Bebas digunakan, dimodifikasi, dan dibagikan.
 | `Minggu ke-1`          | Membuat file recogniser.py untuk mendeteksi gesture tangan menggunakan webcam         |
 | `Minggu ke-2`          | Membuat game.py menggunakan library ursina untuk membuat logika dan mekanik game      |
 | `Minggu ke-3`          | Menambahkan asset karakter tralalelo dan mobil di game                                |
-| `tMinggu ke-4`         | Na                                                                                    |
+| `Minggu ke-4`          | Finalisasi project dan menambahkan report.pdf                                         |
