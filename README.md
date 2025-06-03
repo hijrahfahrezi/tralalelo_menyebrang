@@ -127,17 +127,6 @@ Bebas digunakan, dimodifikasi, dan dibagikan.
 
 ---
 
-## ✅ To-do
-
-1. Buat asset pohon dan objek lingkungan lainnya.
-2. buat background music
-3. buat mode portrait
-4. buat sistem score
-5. buat level dan mekanik difficulty yang berubah tiap level
-6. Tampilkan wajah pengguna di background
-
----
-
 ## 📅 Logbook Mingguan
 
 | File                   | Fungsi                                                                                |
