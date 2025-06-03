@@ -3,6 +3,7 @@
 
 Sebuah game 3D sederhana ala **Frogger**, tapi dengan tampilan **3D** dan kontrol unik lewat **gestur tangan** menggunakan **OpenCV** dan **MediaPipe**. Dibuat menggunakan [Ursina Engine](https://www.ursinaengine.org/).
 
+### Demo Program:https://drive.google.com/drive/folders/1aGncPS6y2vIANH6ZVdYPojMzboQM_Kiv?hl=ID
 ---
 
 ## 👤 Anggota Kelompok
